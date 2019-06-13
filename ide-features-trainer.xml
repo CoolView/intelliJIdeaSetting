@@ -13,7 +13,7 @@
         <entry key="Completions.CompletionwithTab" value="NOT_PASSED" />
         <entry key="Completions.SmartTypeCompletion" value="NOT_PASSED" />
         <entry key="Completions.StatementCompletion" value="NOT_PASSED" />
-        <entry key="EditorBasics.Collapse" value="NOT_PASSED" />
+        <entry key="EditorBasics.Collapse" value="PASSED" />
         <entry key="EditorBasics.CommentLine" value="PASSED" />
         <entry key="EditorBasics.DeleteLine" value="PASSED" />
         <entry key="EditorBasics.Duplicate" value="PASSED" />
@@ -58,11 +58,19 @@
   <component name="StatisticBase">
     <option name="persistedLessonId2State">
       <map>
-        <entry key="EditorBasics.Collapse">
+        <entry key="Completions.BasicCompletion">
           <value>
             <StatisticData>
               <option name="state" value="STARTED" />
-              <option name="timestamp" value="1560410754570" />
+              <option name="timestamp" value="1560411571085" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Collapse">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="745555" />
             </StatisticData>
           </value>
         </entry>
@@ -95,6 +103,14 @@
             <StatisticData>
               <option name="state" value="PASSED" />
               <option name="timestamp" value="10852" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.MultipleSelections">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1560411504373" />
             </StatisticData>
           </value>
         </entry>
