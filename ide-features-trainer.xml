@@ -66,6 +66,14 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="Completions.SmartTypeCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1560413071129" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="EditorBasics.Collapse">
           <value>
             <StatisticData>
