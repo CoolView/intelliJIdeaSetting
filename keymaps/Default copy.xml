@@ -1,0 +1,14 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift alt 2" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift alt back_quote" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
+</keymap>

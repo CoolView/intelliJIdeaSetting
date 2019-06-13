@@ -1,0 +1,63 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="CATALINA BASE" />
+      <item value="Fuzzy" />
+      <item value="Singleton instance of the Islamic Umm Al-Qura calendar of Saudi Arabia. * Other Hijrah chronology variants may be available from" />
+      <item value="Unit that represents the concept of a quarter-year." />
+      <item value="This is a data aware function, and has to be called using FunctionService.onRegion" />
+      <item value="CACHING PROXY" />
+      <item value="the previous value associated with the specified key, or * {@code null} if there was no mapping for the key. * (A {@code null} return can also indicate that the map * previously associated {@code null} with the key, * if the implementation supports null values.)" />
+      <item value="the previous value associated with &lt;tt&gt;key&lt;/tt&gt;, or * &lt;tt&gt;null&lt;/tt&gt; if there was no mapping for &lt;tt&gt;key&lt;/tt&gt;. * (A &lt;tt&gt;null&lt;/tt&gt; return can also indicate that the map * previously associated &lt;tt&gt;null&lt;/tt&gt; with &lt;tt&gt;key&lt;/tt&gt;, * if the implementation supports &lt;tt&gt;null&lt;/tt&gt; values.)" />
+      <item value="Combines the state of another {@code IntSummaryStatistics} into this one." />
+      <item value="Records a new value into the summary information" />
+      <item value="Returns a function that always returns its input argument." />
+      <item value="* Returns a {@code Collector} that accumulates the input elements into a * new {@code List}. There are no guarantees on the type, mutability, * serializability, or thread-safety of the {@code List} returned; if more * control over the returned {@code List} is required, use {@link #toCollection(Supplier)}." />
+      <item value="Adult" />
+      <item value="if and only if the instant of time * represented by this &lt;tt&gt;Date&lt;/tt&gt; object is strictly * earlier than the instant represented by &lt;tt&gt;when&lt;/tt&gt;" />
+      <item value="flat" />
+      <item value="Represents a supplier of results.&#10;There is no requirement that a new or distinct result be returned each time the supplier is invoked.&#10;This is a functional interface whose functional method is get()." />
+      <item value="Return the value if present, otherwise invoke other and return the result of that invocation." />
+      <item value="Passing a non-null argument to 'Optional'" />
+      <item value="bam" />
+      <item value="Returns an empty {@code Optional} instance. No value is present for this * Optional." />
+      <item value="Returns an Optional describing the specified value, if non-null, otherwise returns an empty Optional." />
+      <item value="Constructs an instance with the value present." />
+      <item value="Accepts a function that extracts an {@code int} sort key from a type * {@code T}, and returns a {@code Comparator&lt;T&gt;} that compares by that * sort key." />
+      <item value="Returns a comparator that imposes the reverse of the &lt;em&gt;natural * ordering" />
+      <item value="Returns a null-friendly comparator that considers {@code null} to be * less than non-null. When both are {@code null}, they are considered * equal. If both are non-null, the specified {@code Comparator} is used * to determine the order. If the specified comparator is {@code null}, * then the returned comparator considers all non-null values to be equal." />
+      <item value="Returns a null-friendly comparator that considers {@code null} to be * greater than non-null. When both are {@code null}, they are considered * equal. If both are non-null, the specified {@code Comparator} is used * to determine the order. If the specified comparator is {@code null}, * then the returned comparator considers all non-null values to be equal." />
+      <item value="Accepts a function that extracts a sort key from a type {@code T}, and * returns a {@code Comparator&lt;T&gt;} that compares by that sort key using * the specified {@link Comparator}." />
+      <item value="Represents a function that produces an int-valued result. This is the * {@code int}-producing primitive specialization for {@link Function}." />
+      <item value="Applies this function to the given argument." />
+      <item value="then" />
+      <item value="Returns a comparator that imposes the reverse of the &lt;em&gt;natural * ordering&lt;/em&gt;." />
+      <item value="Returns a lexicographic-order comparator with a function that * extracts a {@code Comparable} sort key." />
+      <item value="Returns a lexicographic-order comparator with a function that * extracts a key to be compared with the given {@code Comparator}." />
+      <item value="the function used to extract the sort key" />
+      <item value="This default implementation behaves as if {@code * thenComparing(comparing(keyExtractor, cmp))}." />
+      <item value="The returned comparator is serializable if the specified comparator * is also serializable." />
+      <item value="Returns a lexicographic-order comparator with another comparator. * If this {@code Comparator} considers two elements equal, i.e. * {@code compare(a, b) == 0}, {@code other} is used to determine the order." />
+      <item value="For example, to sort a collection of {@code String} based on the length * and then case-insensitive natural ordering, the comparator can be * composed using following code," />
+      <item value="Returns a lexicographic-order comparator with another comparator. * If this {@code Comparator} considers two elements equal, i.e. * {@code compare(a, b) == 0}, {@code other} is used to determine the order. * * &lt;p&gt;The returned comparator is serializable if the specified comparator * is also serializable." />
+      <item value="If a value is present, invoke the specified consumer with the value, * otherwise do nothing." />
+      <item value="Return the value if present, otherwise return {@code other}." />
+      <item value="If a value is present in this {@code Optional}, returns the value, * otherwise throws {@code NoSuchElementException}." />
+      <item value="if there is a value present, otherwise" />
+      <item value="the type of results supplied by this supplier" />
+      <item value="There is no requirement that a new or distinct result be returned each * time the supplier is invoked." />
+      <item value="Represents a supplier of results." />
+      <item value="before the function to apply before this function is applied" />
+      <item value="the type of the result of the function" />
+      <item value="the type of the input to the function" />
+      <item value="Represents a function that accepts one argument and produces a result." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="62" />
+        <entry key="SPANISH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
