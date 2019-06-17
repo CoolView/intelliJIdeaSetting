@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Runs the finalization methods of any objects pending finalization. * &lt;p&gt; * Calling this method suggests that the Java Virtual Machine expend * effort toward running the &lt;code&gt;finalize&lt;/code&gt; methods of objects * that have been found to be discarded but whose &lt;code&gt;finalize&lt;/code&gt; * methods have not yet been run. When control returns from the * method call, the Java Virtual Machine has made a best effort to * complete all outstanding finalizations. * &lt;p&gt; * The call &lt;code&gt;System.runFinalization()&lt;/code&gt; is effectively * equivalent to the call: * &lt;blockquote&gt;&lt;pre&gt; * Runtime.getRuntime().runFinalization()" />
       <item value="CATALINA BASE" />
       <item value="Fuzzy" />
       <item value="Singleton instance of the Islamic Umm Al-Qura calendar of Saudi Arabia. * Other Hijrah chronology variants may be available from" />
@@ -50,12 +51,11 @@
       <item value="before the function to apply before this function is applied" />
       <item value="the type of the result of the function" />
       <item value="the type of the input to the function" />
-      <item value="Represents a function that accepts one argument and produces a result." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
