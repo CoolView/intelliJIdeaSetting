@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a finalizer object if the FIS needs a finalizer; otherwise null. * If the FIS has a close method; it needs an AltFinalizer." />
+      <item value="The {@code finalize} method has been deprecated and will be removed. * Subclasses that override {@code finalize} in order to perform cleanup * should be modified to use alternative cleanup mechanisms and * to remove the overriding {@code finalize} method. * When overriding the {@code finalize} method, its implementation must explicitly * ensure that {@code super.finalize()} is invoked as described in {@link Object#finalize}. * See the specification for {@link Object#finalize()} for further * information about migration options." />
       <item value="Invoked by close method or cleaner" />
       <item value="Runs the finalization methods of any objects pending finalization. * &lt;p&gt; * Calling this method suggests that the Java Virtual Machine expend * effort toward running the &lt;code&gt;finalize&lt;/code&gt; methods of objects * that have been found to be discarded but whose &lt;code&gt;finalize&lt;/code&gt; * methods have not yet been run. When control returns from the * method call, the Java Virtual Machine has made a best effort to * complete all outstanding finalizations. * &lt;p&gt; * The call &lt;code&gt;System.runFinalization()&lt;/code&gt; is effectively * equivalent to the call: * &lt;blockquote&gt;&lt;pre&gt; * Runtime.getRuntime().runFinalization()" />
       <item value="CATALINA BASE" />
@@ -49,13 +51,11 @@
       <item value="the type of results supplied by this supplier" />
       <item value="There is no requirement that a new or distinct result be returned each * time the supplier is invoked." />
       <item value="Represents a supplier of results." />
-      <item value="before the function to apply before this function is applied" />
-      <item value="the type of the result of the function" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
