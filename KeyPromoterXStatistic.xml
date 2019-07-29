@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+向左箭头' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>123</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>548</Count>
+          <Count>549</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -254,7 +254,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>160</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...tityInfoAction.java'">
