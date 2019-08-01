@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The resulting string may vary depending on the platform's * default encoding. Instead, use the encode(String,String) * method to specify the encoding." />
       <item value="Returns a finalizer object if the FIS needs a finalizer; otherwise null. * If the FIS has a close method; it needs an AltFinalizer." />
       <item value="The {@code finalize} method has been deprecated and will be removed. * Subclasses that override {@code finalize} in order to perform cleanup * should be modified to use alternative cleanup mechanisms and * to remove the overriding {@code finalize} method. * When overriding the {@code finalize} method, its implementation must explicitly * ensure that {@code super.finalize()} is invoked as described in {@link Object#finalize}. * See the specification for {@link Object#finalize()} for further * information about migration options." />
       <item value="Invoked by close method or cleaner" />
@@ -50,12 +51,11 @@
       <item value="if there is a value present, otherwise" />
       <item value="the type of results supplied by this supplier" />
       <item value="There is no requirement that a new or distinct result be returned each * time the supplier is invoked." />
-      <item value="Represents a supplier of results." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
