@@ -118,7 +118,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Tomcat 8.0.91'</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Unnamed'">
@@ -782,7 +782,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Tomcat 8.0.91'</Description>
-          <Count>29</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unnamed'">
