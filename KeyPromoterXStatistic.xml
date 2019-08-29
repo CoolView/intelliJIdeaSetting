@@ -246,7 +246,7 @@
           <IdeaActionID>NewDir</IdeaActionID>
           <ShortCut>'Alt+Shift+2'</ShortCut>
           <Description>Package</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
