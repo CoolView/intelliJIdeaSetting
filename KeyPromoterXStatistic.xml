@@ -865,6 +865,14 @@
           <Count>153</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'shiro-example-chapter7 [org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'shiro-example-chapter7 [org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Structure">
         <Item>
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
