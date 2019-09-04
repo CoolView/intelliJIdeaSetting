@@ -46,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -198,7 +198,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Java Class">
@@ -278,7 +278,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>171</Count>
+          <Count>184</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...tityInfoAction.java'">
@@ -654,7 +654,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Tomcat 7.0.92'</Description>
-          <Count>109</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tomcat 8.0.9'">
@@ -662,7 +662,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Tomcat 8.0.9'</Description>
-          <Count>31</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tomcat 8.0.91'">
@@ -670,7 +670,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Tomcat 8.0.91'</Description>
-          <Count>31</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unnamed'">
@@ -718,7 +718,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>94</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Translation Dialog...">
@@ -734,7 +734,7 @@
           <IdeaActionID>RevealIn</IdeaActionID>
           <ShortCut>'Alt+Shift+E'</ShortCut>
           <Description>Show in Explorer</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -838,7 +838,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Tomcat 7.0.92'</Description>
-          <Count>143</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tomcat 8.0.9'">
@@ -846,7 +846,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Tomcat 8.0.9'</Description>
-          <Count>32</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tomcat 8.0.91'">
@@ -854,7 +854,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Tomcat 8.0.91'</Description>
-          <Count>33</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unnamed'">
@@ -870,6 +870,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'shiro-example-chapter7 [org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'shirotest [org.apache.tomcat.maven:tomcat7-maven-plugin:2.0-beta-1:run]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'shirotest [org.apache.tomcat.maven:tomcat7-maven-plugin:2.0-beta-1:run]'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
