@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REQUEST" />
       <item value="as of Spring 3.2, in favor of" />
       <item value="in favor of" />
       <item value="replacing any previously registered Converter." />
@@ -50,12 +51,11 @@
       <item value="This default implementation behaves as if {@code * thenComparing(comparing(keyExtractor, cmp))}." />
       <item value="The returned comparator is serializable if the specified comparator * is also serializable." />
       <item value="Returns a lexicographic-order comparator with another comparator. * If this {@code Comparator} considers two elements equal, i.e. * {@code compare(a, b) == 0}, {@code other} is used to determine the order." />
-      <item value="For example, to sort a collection of {@code String} based on the length * and then case-insensitive natural ordering, the comparator can be * composed using following code," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
