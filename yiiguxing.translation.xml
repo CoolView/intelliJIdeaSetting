@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specify the number of times this trigger is supposed to fire. * &lt;p&gt;Default is to repeat indefinitely." />
+      <item value="Note that explicit dependencies, i.e. &quot;property&quot; and &quot;constructor-arg&quot; elements, always override autowiring. Note: This attribute will not be inherited by child bean definitions. Hence, it needs to be specified per concrete bean definition." />
+      <item value="Controls whether bean properties are &quot;autowired&quot;. This is an automagical process in which bean references don't need to be coded explicitly in the XML bean definition file, but rather the Spring container works out dependencies." />
+      <item value="Note that this default mode also allows for annotation-driven autowiring, if activated. &quot;no&quot; refers to externally driven autowiring only, not affecting any autowiring demands that the bean class itself expresses." />
+      <item value="The traditional Spring default. No automagical wiring. Bean references must be defined in the XML file via the &lt;ref/&gt; element (or &quot;ref&quot; attribute). We recommend this in most cases as it makes documentation more explicit." />
+      <item value="Indicates whether or not this bean is to be lazily initialized. If false, it will be instantiated on startup by bean factories that perform eager initialization of singletons. The default is &quot;false&quot;." />
+      <item value="Set the start delay in milliseconds. * &lt;p&gt;The start delay is added to the current system time (when the bean starts) * to control the start time of the trigger." />
+      <item value="Specify the number of times this trigger is supposed to fire." />
       <item value="REQUEST" />
       <item value="as of Spring 3.2, in favor of" />
       <item value="in favor of" />
@@ -43,19 +51,11 @@
       <item value="Accepts a function that extracts a sort key from a type {@code T}, and * returns a {@code Comparator&lt;T&gt;} that compares by that sort key using * the specified {@link Comparator}." />
       <item value="Represents a function that produces an int-valued result. This is the * {@code int}-producing primitive specialization for {@link Function}." />
       <item value="Applies this function to the given argument." />
-      <item value="then" />
-      <item value="Returns a comparator that imposes the reverse of the &lt;em&gt;natural * ordering&lt;/em&gt;." />
-      <item value="Returns a lexicographic-order comparator with a function that * extracts a {@code Comparable} sort key." />
-      <item value="Returns a lexicographic-order comparator with a function that * extracts a key to be compared with the given {@code Comparator}." />
-      <item value="the function used to extract the sort key" />
-      <item value="This default implementation behaves as if {@code * thenComparing(comparing(keyExtractor, cmp))}." />
-      <item value="The returned comparator is serializable if the specified comparator * is also serializable." />
-      <item value="Returns a lexicographic-order comparator with another comparator. * If this {@code Comparator} considers two elements equal, i.e. * {@code compare(a, b) == 0}, {@code other} is used to determine the order." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
