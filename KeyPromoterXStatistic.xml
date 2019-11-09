@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>738</Count>
+          <Count>739</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -214,7 +214,7 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Alt+Shift+1'</ShortCut>
           <Description>Java Class</Description>
-          <Count>52</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -278,7 +278,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>90</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
