@@ -62,7 +62,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>10</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>739</Count>
+          <Count>742</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -174,7 +174,7 @@
           <IdeaActionID>NewFile</IdeaActionID>
           <ShortCut>'Alt+Shift+后引号'</ShortCut>
           <Description>File</Description>
-          <Count>11</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -214,7 +214,7 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Alt+Shift+1'</ShortCut>
           <Description>Java Class</Description>
-          <Count>57</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -774,6 +774,14 @@
           <IdeaActionID>RunToCursor</IdeaActionID>
           <ShortCut>'Alt+F9'</ShortCut>
           <Description>Run to Cursor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Scratch File">
+        <Item>
+          <IdeaActionID>NewScratchFile</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+Insert'</ShortCut>
+          <Description>Scratch File</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
