@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+向左箭头' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>179</Count>
+          <Count>184</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>801</Count>
+          <Count>811</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -990,7 +990,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'run_door_operate'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'shiro-example-chapter16 [org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run]'">
