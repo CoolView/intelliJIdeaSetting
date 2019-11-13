@@ -46,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -118,7 +118,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Tomcat 8.0.91'</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Unnamed'">
@@ -286,7 +286,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>197</Count>
+          <Count>203</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...tityInfoAction.java'">
@@ -446,7 +446,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Tomcat 8.0.91'</Description>
-          <Count>18</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'run_door_operate'">
@@ -750,7 +750,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Tomcat 8.0.91'</Description>
-          <Count>65</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unnamed'">
@@ -814,7 +814,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>100</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Translation Dialog...">
@@ -974,7 +974,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Tomcat 8.0.91'</Description>
-          <Count>72</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unnamed'">
@@ -1071,6 +1071,14 @@
           <ShortCut>'Ctrl+F10'</ShortCut>
           <Description>Update 'Tomcat 7.0.92' application</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update 'Tomcat 8.0.91' application">
+        <Item>
+          <IdeaActionID>UpdateRunningApplication</IdeaActionID>
+          <ShortCut>'Ctrl+F10'</ShortCut>
+          <Description>Update 'Tomcat 8.0.91' application</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Unnamed' application">
