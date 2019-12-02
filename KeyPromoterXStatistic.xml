@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+向左箭头' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>188</Count>
+          <Count>189</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>827</Count>
+          <Count>832</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -254,7 +254,7 @@
           <IdeaActionID>NewDir</IdeaActionID>
           <ShortCut>'Alt+Shift+2'</ShortCut>
           <Description>Package</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -623,6 +623,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'HelloWorld.main()'</Description>
           <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'HttpRequestUti....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'HttpRequestUti....main()'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ImageUtils.main()'">
