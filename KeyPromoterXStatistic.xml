@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>840</Count>
+          <Count>841</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -214,7 +214,7 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Alt+Shift+1'</ShortCut>
           <Description>Java Class</Description>
-          <Count>78</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -254,7 +254,7 @@
           <IdeaActionID>NewDir</IdeaActionID>
           <ShortCut>'Alt+Shift+2'</ShortCut>
           <Description>Package</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -406,7 +406,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Main (1)'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PermissionTest.testAesCipherService'">
@@ -686,7 +686,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Main.main()'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MapTest.main()'">
