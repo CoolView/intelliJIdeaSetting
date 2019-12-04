@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>857</Count>
+          <Count>862</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -166,7 +166,7 @@
           <IdeaActionID>ExpandAll</IdeaActionID>
           <ShortCut>'Ctrl+NumPad +' or 'Ctrl+='</ShortCut>
           <Description>Expand All</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -222,7 +222,7 @@
           <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Hierarchy</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
