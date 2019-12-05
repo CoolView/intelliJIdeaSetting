@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+向左箭头' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>198</Count>
+          <Count>200</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -62,7 +62,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>868</Count>
+          <Count>875</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
