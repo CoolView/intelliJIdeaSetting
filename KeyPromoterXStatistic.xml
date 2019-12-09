@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>910</Count>
+          <Count>915</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1167,6 +1167,14 @@
           <ShortCut>'Ctrl+F10'</ShortCut>
           <Description>Update 'Unnamed' application</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="VCS Operations Popup...">
+        <Item>
+          <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'Alt+`'</ShortCut>
+          <Description>VCS Operations Popup...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Variable...">
