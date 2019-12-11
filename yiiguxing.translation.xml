@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fills in any unset fields in the calendar fields. First, the {@link * #computeTime()} method is called if the time value (millisecond offset * from the &lt;a href=&quot;#Epoch&quot;&gt;Epoch&lt;/a&gt;) has not been calculated from * calendar field values. Then, the {@link #computeFields()} method is * called to calculate all calendar field values." />
       <item value="Indicates whether this bean is to be lazily initialized. If &quot;false&quot;, it will be instantiated on startup by bean factories that perform eager initialization of singletons. The effective default is &quot;false&quot;. Note: This attribute will not be inherited by child bean definitions. Hence, it needs to be specified per concrete bean definition. It can be shared through the 'default-lazy-init' attribute at the 'beans' level and potentially inherited from outer 'beans' defaults in case of nested 'beans' sections (e.g. with different profiles)." />
       <item value="favor" />
       <item value="&lt;p&gt;&lt;b&gt;For advanced needs, consider using a {@link DefaultListableBeanFactory} with * an {@link XmlBeanDefinitionReader}.&lt;/b&gt; The latter allows for reading from multiple XML * resources and is highly configurable in its actual XML parsing behavior." />
@@ -50,12 +51,11 @@
       <item value="Passing a non-null argument to 'Optional'" />
       <item value="bam" />
       <item value="Returns an empty {@code Optional} instance. No value is present for this * Optional." />
-      <item value="Returns an Optional describing the specified value, if non-null, otherwise returns an empty Optional." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
