@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+向左箭头' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>233</Count>
+          <Count>235</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>944</Count>
+          <Count>946</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -535,6 +535,14 @@
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>440</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Z'</ShortCut>
+          <Description>Revert...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
