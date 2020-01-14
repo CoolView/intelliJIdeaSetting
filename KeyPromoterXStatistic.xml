@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>975</Count>
+          <Count>976</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -887,6 +887,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unnamed'</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'WebsocketApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'WebsocketApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ZonedDateTimeT....main()'">
