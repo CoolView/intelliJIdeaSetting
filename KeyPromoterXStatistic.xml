@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+向左箭头' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>246</Count>
+          <Count>247</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>977</Count>
+          <Count>979</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -238,7 +238,7 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Alt+Shift+1'</ShortCut>
           <Description>Java Class</Description>
-          <Count>96</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -846,7 +846,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Test.main()'</Description>
-          <Count>35</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'TestMain.main()'">
