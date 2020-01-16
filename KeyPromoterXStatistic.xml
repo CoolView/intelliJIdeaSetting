@@ -1006,7 +1006,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>114</Count>
+          <Count>115</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Translation Dialog...">
