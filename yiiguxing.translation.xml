@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="declare" />
       <item value="decode" />
       <item value="Fills in any unset fields in the calendar fields. First, the {@link * #computeTime()} method is called if the time value (millisecond offset * from the &lt;a href=&quot;#Epoch&quot;&gt;Epoch&lt;/a&gt;) has not been calculated from * calendar field values. Then, the {@link #computeFields()} method is * called to calculate all calendar field values." />
       <item value="Indicates whether this bean is to be lazily initialized. If &quot;false&quot;, it will be instantiated on startup by bean factories that perform eager initialization of singletons. The effective default is &quot;false&quot;. Note: This attribute will not be inherited by child bean definitions. Hence, it needs to be specified per concrete bean definition. It can be shared through the 'default-lazy-init' attribute at the 'beans' level and potentially inherited from outer 'beans' defaults in case of nested 'beans' sections (e.g. with different profiles)." />
@@ -50,12 +51,11 @@
       <item value="Represents a supplier of results.&#10;There is no requirement that a new or distinct result be returned each time the supplier is invoked.&#10;This is a functional interface whose functional method is get()." />
       <item value="Return the value if present, otherwise invoke other and return the result of that invocation." />
       <item value="Passing a non-null argument to 'Optional'" />
-      <item value="bam" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
