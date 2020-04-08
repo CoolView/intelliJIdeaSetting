@@ -1313,6 +1313,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Synchronize">
+        <Item>
+          <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
+          <Description>Synchronize</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="TODO">
         <Item>
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
