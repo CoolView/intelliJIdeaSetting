@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cache Hit Ratio" />
+      <item value="was not registered for synchronization because synchronization is not active" />
       <item value="Approximate total number of rows" />
       <item value="margin" />
       <item value="attempted to return null from a method with a primitive return type (int)" />
@@ -49,13 +51,11 @@
       <item value="Records a new value into the summary information" />
       <item value="Returns a function that always returns its input argument." />
       <item value="* Returns a {@code Collector} that accumulates the input elements into a * new {@code List}. There are no guarantees on the type, mutability, * serializability, or thread-safety of the {@code List} returned; if more * control over the returned {@code List} is required, use {@link #toCollection(Supplier)}." />
-      <item value="Adult" />
-      <item value="if and only if the instant of time * represented by this &lt;tt&gt;Date&lt;/tt&gt; object is strictly * earlier than the instant represented by &lt;tt&gt;when&lt;/tt&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
