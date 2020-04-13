@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sensitive" />
       <item value="Cache Hit Ratio" />
       <item value="was not registered for synchronization because synchronization is not active" />
       <item value="Approximate total number of rows" />
@@ -50,12 +51,11 @@
       <item value="Combines the state of another {@code IntSummaryStatistics} into this one." />
       <item value="Records a new value into the summary information" />
       <item value="Returns a function that always returns its input argument." />
-      <item value="* Returns a {@code Collector} that accumulates the input elements into a * new {@code List}. There are no guarantees on the type, mutability, * serializability, or thread-safety of the {@code List} returned; if more * control over the returned {@code List} is required, use {@link #toCollection(Supplier)}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
