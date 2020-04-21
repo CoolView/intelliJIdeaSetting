@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+向左箭头' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>302</Count>
+          <Count>305</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1156</Count>
+          <Count>1160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -991,6 +991,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'lincchios.main()'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'lincwrite.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'lincwrite.main()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'run_device_aut....main()'">
