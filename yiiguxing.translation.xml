@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Class String is special cased within the Serialization Stream Protocol. * * A String instance is written into an ObjectOutputStream according to * &lt;a href=&quot;{@docRoot}/../platform/serialization/spec/output.html&quot;&gt; * Object Serialization Specification, Section 6.2, &quot;Stream Elements&quot;&lt;/a&gt; */" />
+      <item value="return false;" />
       <item value="Returns the address of the local host. This is achieved by retrieving * the name of the host from the system, then resolving that name into * an {@code InetAddress}. * * &lt;P&gt;Note: The resolved address may be cached for a short period of time. * &lt;/P&gt; * * &lt;p&gt;If there is a security manager, its * {@code checkConnect} method is called * with the local host name and {@code -1} * as its arguments to see if the operation is allowed. * If the operation is not allowed, an InetAddress representing * the loopback address is returned." />
       <item value="ERROR: value too long for type character varying(30)" />
       <item value="value too long for type character varying(20)" />
@@ -49,13 +51,11 @@
       <item value="Unit that represents the concept of a quarter-year." />
       <item value="This is a data aware function, and has to be called using FunctionService.onRegion" />
       <item value="CACHING PROXY" />
-      <item value="the previous value associated with the specified key, or * {@code null} if there was no mapping for the key. * (A {@code null} return can also indicate that the map * previously associated {@code null} with the key, * if the implementation supports null values.)" />
-      <item value="the previous value associated with &lt;tt&gt;key&lt;/tt&gt;, or * &lt;tt&gt;null&lt;/tt&gt; if there was no mapping for &lt;tt&gt;key&lt;/tt&gt;. * (A &lt;tt&gt;null&lt;/tt&gt; return can also indicate that the map * previously associated &lt;tt&gt;null&lt;/tt&gt; with &lt;tt&gt;key&lt;/tt&gt;, * if the implementation supports &lt;tt&gt;null&lt;/tt&gt; values.)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
