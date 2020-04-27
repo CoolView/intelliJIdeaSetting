@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expect TILDE, actual TILDE hsname" />
       <item value="Batch" />
       <item value="ceil" />
       <item value="origin" />
@@ -50,12 +51,11 @@
       <item value="Invoked by close method or cleaner" />
       <item value="Runs the finalization methods of any objects pending finalization. * &lt;p&gt; * Calling this method suggests that the Java Virtual Machine expend * effort toward running the &lt;code&gt;finalize&lt;/code&gt; methods of objects * that have been found to be discarded but whose &lt;code&gt;finalize&lt;/code&gt; * methods have not yet been run. When control returns from the * method call, the Java Virtual Machine has made a best effort to * complete all outstanding finalizations. * &lt;p&gt; * The call &lt;code&gt;System.runFinalization()&lt;/code&gt; is effectively * equivalent to the call: * &lt;blockquote&gt;&lt;pre&gt; * Runtime.getRuntime().runFinalization()" />
       <item value="CATALINA BASE" />
-      <item value="Fuzzy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
