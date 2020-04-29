@@ -198,7 +198,7 @@
           <IdeaActionID>NewFile</IdeaActionID>
           <ShortCut>'Alt+Shift+后引号'</ShortCut>
           <Description>File</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
