@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Comma expression" />
       <item value="relative" />
       <item value="Populate the JavaBeans properties of the specified bean, based on * the specified name/value pairs." />
       <item value="token MONKEYS_AT_AT" />
@@ -50,11 +51,10 @@
       <item value="Adds a new entry with the specified key, value and hash code to * the specified bucket. It is the responsibility of this * method to resize the table if appropriate. * * Subclass overrides this to alter the behavior of put method." />
       <item value="The resulting string may vary depending on the platform's * default encoding. Instead, use the encode(String,String) * method to specify the encoding." />
       <item value="Returns a finalizer object if the FIS needs a finalizer; otherwise null. * If the FIS has a close method; it needs an AltFinalizer." />
-      <item value="The {@code finalize} method has been deprecated and will be removed. * Subclasses that override {@code finalize} in order to perform cleanup * should be modified to use alternative cleanup mechanisms and * to remove the overriding {@code finalize} method. * When overriding the {@code finalize} method, its implementation must explicitly * ensure that {@code super.finalize()} is invoked as described in {@link Object#finalize}. * See the specification for {@link Object#finalize()} for further * information about migration options." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
+        <entry key="CHINESE" value="114" />
         <entry key="ENGLISH" value="114" />
         <entry key="SPANISH" value="2" />
       </map>
