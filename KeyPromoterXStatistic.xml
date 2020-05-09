@@ -665,6 +665,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BaseAction.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'BaseAction.main()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'BeanToXMLTest.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
