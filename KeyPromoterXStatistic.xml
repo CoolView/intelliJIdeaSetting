@@ -158,7 +158,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1266</Count>
+          <Count>1268</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -294,7 +294,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'Ctrl+Alt+M'</ShortCut>
           <Description>Method...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
