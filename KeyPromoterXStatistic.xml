@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+向左箭头' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>358</Count>
+          <Count>362</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -158,7 +158,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1285</Count>
+          <Count>1288</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1390,7 +1390,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>76</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Super Method">
@@ -1438,7 +1438,7 @@
           <IdeaActionID>$EditorTranslateAction</IdeaActionID>
           <ShortCut>'Ctrl+Shift+Y'</ShortCut>
           <Description>Translate</Description>
-          <Count>119</Count>
+          <Count>122</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo">
