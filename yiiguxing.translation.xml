@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets connection recovery interval. Default is 5000." />
+      <item value="true to acknowledge all messages up to and * including the supplied delivery tag; false to acknowledge just * the supplied delivery tag." />
       <item value="prefetchCount maximum number of messages that the server * will deliver, 0 if unlimited" />
       <item value="global true if the settings should be applied to the * entire channel rather than each consumer" />
       <item value="prefetchSize maximum amount of content (measured in * octets) that the server will deliver, 0 if unlimited" />
       <item value="Request specific &quot;quality of service&quot; settings. * * These settings impose limits on the amount of data the server * will deliver to consumers before requiring acknowledgements. * Thus they provide a means of consumer-initiated flow control." />
       <item value="Set the requested heartbeat timeout. Heartbeat frames will be sent at about 1/2 the timeout interval." />
-      <item value="Sets connection recovery interval. Default is 5000." />
       <item value="Enables or disables automatic connection recovery" />
       <item value="the length of random string to create * @param start the position in set of chars to start at" />
       <item value="letters if {@code true}, generated string may include * alphabetic characters * @param numbers if {@code true}, generated string may include * numeric characters" />
@@ -50,12 +51,11 @@
       <item value="Note that this default mode also allows for annotation-driven autowiring, if activated. &quot;no&quot; refers to externally driven autowiring only, not affecting any autowiring demands that the bean class itself expresses." />
       <item value="The traditional Spring default. No automagical wiring. Bean references must be defined in the XML file via the &lt;ref/&gt; element (or &quot;ref&quot; attribute). We recommend this in most cases as it makes documentation more explicit." />
       <item value="Indicates whether or not this bean is to be lazily initialized. If false, it will be instantiated on startup by bean factories that perform eager initialization of singletons. The default is &quot;false&quot;." />
-      <item value="Set the start delay in milliseconds. * &lt;p&gt;The start delay is added to the current system time (when the bean starts) * to control the start time of the trigger." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="128" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
