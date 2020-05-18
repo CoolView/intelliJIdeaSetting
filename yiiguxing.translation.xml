@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="safety" />
+      <item value="security" />
+      <item value="applications" />
       <item value="Sets connection recovery interval. Default is 5000." />
       <item value="true to acknowledge all messages up to and * including the supplied delivery tag; false to acknowledge just * the supplied delivery tag." />
       <item value="prefetchCount maximum number of messages that the server * will deliver, 0 if unlimited" />
@@ -48,14 +51,11 @@
       <item value="Specify the number of times this trigger is supposed to fire. * &lt;p&gt;Default is to repeat indefinitely." />
       <item value="Note that explicit dependencies, i.e. &quot;property&quot; and &quot;constructor-arg&quot; elements, always override autowiring. Note: This attribute will not be inherited by child bean definitions. Hence, it needs to be specified per concrete bean definition." />
       <item value="Controls whether bean properties are &quot;autowired&quot;. This is an automagical process in which bean references don't need to be coded explicitly in the XML bean definition file, but rather the Spring container works out dependencies." />
-      <item value="Note that this default mode also allows for annotation-driven autowiring, if activated. &quot;no&quot; refers to externally driven autowiring only, not affecting any autowiring demands that the bean class itself expresses." />
-      <item value="The traditional Spring default. No automagical wiring. Bean references must be defined in the XML file via the &lt;ref/&gt; element (or &quot;ref&quot; attribute). We recommend this in most cases as it makes documentation more explicit." />
-      <item value="Indicates whether or not this bean is to be lazily initialized. If false, it will be instantiated on startup by bean factories that perform eager initialization of singletons. The default is &quot;false&quot;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="130" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
