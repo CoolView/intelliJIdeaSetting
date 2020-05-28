@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A copy of this string with leading and trailing white * space removed, or this string if it has no leading or * trailing white space." />
       <item value="safety" />
       <item value="security" />
       <item value="applications" />
@@ -50,12 +51,11 @@
       <item value="this.m jtf Person Search Name.get Text()" />
       <item value="Specify the number of times this trigger is supposed to fire. * &lt;p&gt;Default is to repeat indefinitely." />
       <item value="Note that explicit dependencies, i.e. &quot;property&quot; and &quot;constructor-arg&quot; elements, always override autowiring. Note: This attribute will not be inherited by child bean definitions. Hence, it needs to be specified per concrete bean definition." />
-      <item value="Controls whether bean properties are &quot;autowired&quot;. This is an automagical process in which bean references don't need to be coded explicitly in the XML bean definition file, but rather the Spring container works out dependencies." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
