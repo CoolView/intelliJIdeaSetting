@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Vary" />
       <item value="getWriter() has already been called for this response" />
       <item value="A copy of this string with leading and trailing white * space removed, or this string if it has no leading or * trailing white space." />
       <item value="safety" />
@@ -50,12 +51,11 @@
       <item value="Enables/disables merging for collections when using parent/child beans." />
       <item value="If addToConfig is false the mapper will not be added to MyBatis. This means * it must have been included in mybatis-config.xml. * &lt;p/&gt; * If it is true, the mapper will be added to MyBatis in the case it is not already * registered. * &lt;p/&gt; * By default addToCofig is true." />
       <item value="this.m jtf Person Search Name.get Text()" />
-      <item value="Specify the number of times this trigger is supposed to fire. * &lt;p&gt;Default is to repeat indefinitely." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
