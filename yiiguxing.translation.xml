@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bound must be greater than origin" />
       <item value="Declare" />
       <item value="Vary" />
       <item value="getWriter() has already been called for this response" />
@@ -50,12 +51,11 @@
       <item value="Check whether the bean with the given name matches the specified type. * More specifically, check whether a {@link #getBean} call for the given name * would return an object that is assignable to the specified target type. * &lt;p&gt;Translates aliases back to the corresponding canonical bean name. * Will ask the parent factory if the bean cannot be found in this factory instance." />
       <item value="The fully qualified name of the bean's class, except if it serves only as a parent definition for child bean definitions." />
       <item value="Enables/disables merging for collections when using parent/child beans." />
-      <item value="If addToConfig is false the mapper will not be added to MyBatis. This means * it must have been included in mybatis-config.xml. * &lt;p/&gt; * If it is true, the mapper will be added to MyBatis in the case it is not already * registered. * &lt;p/&gt; * By default addToCofig is true." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="135" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
