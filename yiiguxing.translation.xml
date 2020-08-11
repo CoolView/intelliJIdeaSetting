@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unterminated string literal" />
       <item value="Tried to send an out-of-range integer as a 2-byte value" />
       <item value="Specifies which {@code SqlSessionTemplate} to use in the case that there is * more than one in the spring context. Usually this is only needed when you * have more than one datasource." />
       <item value="Let's ensure we have access to name and version information, * even if we do not have immediate use for either. This way we know * that they will be available from beginning" />
@@ -50,12 +51,11 @@
       <item value="margin" />
       <item value="attempted to return null from a method with a primitive return type (int)" />
       <item value="async" />
-      <item value="declare" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
