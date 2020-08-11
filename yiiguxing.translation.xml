@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specifies which {@code SqlSessionTemplate} to use in the case that there is * more than one in the spring context. Usually this is only needed when you * have more than one datasource." />
       <item value="Let's ensure we have access to name and version information, * even if we do not have immediate use for either. This way we know * that they will be available from beginning" />
       <item value="Was never called and is aborted or complete" />
       <item value="workaround because jqXHR does not expose upload property" />
@@ -50,12 +51,11 @@
       <item value="async" />
       <item value="declare" />
       <item value="decode" />
-      <item value="Fills in any unset fields in the calendar fields. First, the {@link * #computeTime()} method is called if the time value (millisecond offset * from the &lt;a href=&quot;#Epoch&quot;&gt;Epoch&lt;/a&gt;) has not been calculated from * calendar field values. Then, the {@link #computeFields()} method is * called to calculate all calendar field values." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="ENGLISH" value="142" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
