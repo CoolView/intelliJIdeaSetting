@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exists" />
+      <item value="trim" />
+      <item value="Delivery" />
       <item value="Unterminated string literal" />
       <item value="Tried to send an out-of-range integer as a 2-byte value" />
       <item value="Specifies which {@code SqlSessionTemplate} to use in the case that there is * more than one in the spring context. Usually this is only needed when you * have more than one datasource." />
@@ -48,14 +51,11 @@
       <item value="Cache Hit Ratio" />
       <item value="was not registered for synchronization because synchronization is not active" />
       <item value="Approximate total number of rows" />
-      <item value="margin" />
-      <item value="attempted to return null from a method with a primitive return type (int)" />
-      <item value="async" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
