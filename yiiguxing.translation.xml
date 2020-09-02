@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LANG-530 - need to make sure 'ZZ' output doesn't get passed to SimpleDateFormat" />
+      <item value="the date format patterns to use, see SimpleDateFormat, not null" />
+      <item value="parse Date" />
       <item value="Exists" />
       <item value="trim" />
       <item value="Delivery" />
@@ -48,14 +51,11 @@
       <item value="ERROR: value too long for type character varying(30)" />
       <item value="value too long for type character varying(20)" />
       <item value="sensitive" />
-      <item value="Cache Hit Ratio" />
-      <item value="was not registered for synchronization because synchronization is not active" />
-      <item value="Approximate total number of rows" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
