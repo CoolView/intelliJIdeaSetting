@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Origin bean whose properties are retrieved" />
+      <item value="Destination bean whose properties are modified" />
       <item value="LANG-530 - need to make sure 'ZZ' output doesn't get passed to SimpleDateFormat" />
       <item value="the date format patterns to use, see SimpleDateFormat, not null" />
       <item value="parse Date" />
@@ -49,13 +51,11 @@
       <item value="return false;" />
       <item value="Returns the address of the local host. This is achieved by retrieving * the name of the host from the system, then resolving that name into * an {@code InetAddress}. * * &lt;P&gt;Note: The resolved address may be cached for a short period of time. * &lt;/P&gt; * * &lt;p&gt;If there is a security manager, its * {@code checkConnect} method is called * with the local host name and {@code -1} * as its arguments to see if the operation is allowed. * If the operation is not allowed, an InetAddress representing * the loopback address is returned." />
       <item value="ERROR: value too long for type character varying(30)" />
-      <item value="value too long for type character varying(20)" />
-      <item value="sensitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
