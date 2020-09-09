@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rest" />
+      <item value="Assert" />
       <item value="Origin bean whose properties are retrieved" />
       <item value="Destination bean whose properties are modified" />
       <item value="LANG-530 - need to make sure 'ZZ' output doesn't get passed to SimpleDateFormat" />
@@ -49,13 +51,11 @@
       <item value="Returns the smallest (closest to negative infinity) * {@code double} value that is greater than or equal to the * argument and is equal to a mathematical integer. Special cases: * &lt;ul&gt;&lt;li&gt;If the argument value is already equal to a * mathematical integer, then the result is the same as the * argument. &lt;li&gt;If the argument is NaN or an infinity or * positive zero or negative zero, then the result is the same as * the argument. &lt;li&gt;If the argument value is less than zero but * greater than -1.0, then the result is negative zero.&lt;/ul&gt; Note * that the value of {@code Math.ceil(x)} is exactly the * value of {@code -Math.floor(-x)}." />
       <item value="/** * Class String is special cased within the Serialization Stream Protocol. * * A String instance is written into an ObjectOutputStream according to * &lt;a href=&quot;{@docRoot}/../platform/serialization/spec/output.html&quot;&gt; * Object Serialization Specification, Section 6.2, &quot;Stream Elements&quot;&lt;/a&gt; */" />
       <item value="return false;" />
-      <item value="Returns the address of the local host. This is achieved by retrieving * the name of the host from the system, then resolving that name into * an {@code InetAddress}. * * &lt;P&gt;Note: The resolved address may be cached for a short period of time. * &lt;/P&gt; * * &lt;p&gt;If there is a security manager, its * {@code checkConnect} method is called * with the local host name and {@code -1} * as its arguments to see if the operation is allowed. * If the operation is not allowed, an InetAddress representing * the loopback address is returned." />
-      <item value="ERROR: value too long for type character varying(30)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
