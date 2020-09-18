@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Keep-alive time in seconds. Inactive threads that have been created beyond the core size will timeout after the specified number of seconds elapse. If the executor has an unbounded queue capacity and a size range represented as 0-n, then the core threads will also be configured to timeout when inactive. Otherwise, core threads will not ever timeout." />
+      <item value="Queue capacity for the ThreadPoolTaskExecutor. If not specified, the default will be Integer.MAX_VALUE (i.e. unbounded)." />
+      <item value="The size of the executor's thread pool as either a single value or a range (e.g. 5-10). If no bounded queue-capacity value is provided, then a max value has no effect unless the range is specified as 0-n. In that case, the core pool will have a size of n, but the 'allowCoreThreadTimeout' flag will be set to true. If a queue-capacity is provided, then the lower bound of a range will map to the core size and the upper bound will map to the max size. If this attribute is not provided, the default core size will be 1, and the default max size will be Integer.MAX_VALUE (i.e. unbounded)." />
+      <item value="The bean name for the generated ThreadPoolTaskExecutor instance. This value will also be used as the thread name prefix which is why it is required even when defining the executor as an inner bean: The executor won't be directly accessible then but will nevertheless use the specified id as the thread name prefix of the threads that it manages. In the case of multiple task:executors, as of Spring 3.1.2 this value may be used to qualify which executor should handle a given @Async method, e.g. @Async(&quot;executorId&quot;). See the Javadoc for the #value attribute of Spring's @Async annotation for details." />
+      <item value="Should annotated beans be proxied using Spring's AOP framework, or should they rather be weaved with an AspectJ async execution aspect? AspectJ weaving requires spring-aspects.jar on the classpath, as well as load-time weaving (or compile-time weaving) enabled. Note: The weaving-based aspect requires the @Async annotation to be defined on the concrete class. Annotations in interfaces will not work in that case (they will rather only work with interface-based proxies)!" />
+      <item value="Specifies the org.springframework.scheduling.TaskScheduler or java.util.ScheduledExecutorService instance to use when invoking scheduled methods. If no reference is provided, a TaskScheduler backed by a single thread scheduled executor will be used." />
+      <item value="Queue capacity for the ThreadPoolTaskExecutor. If not specified, the default will be Integer.MAX_VALUE (i.e. unbounded)" />
       <item value="annotation Executor" />
       <item value="Async" />
       <item value="Rest" />
@@ -44,18 +51,11 @@
       <item value="round" />
       <item value="Comma expression" />
       <item value="relative" />
-      <item value="Populate the JavaBeans properties of the specified bean, based on * the specified name/value pairs." />
-      <item value="token MONKEYS_AT_AT" />
-      <item value="expect TILDE, actual TILDE hsname" />
-      <item value="Batch" />
-      <item value="ceil" />
-      <item value="origin" />
-      <item value="Returns the smallest (closest to negative infinity) * {@code double} value that is greater than or equal to the * argument and is equal to a mathematical integer. Special cases: * &lt;ul&gt;&lt;li&gt;If the argument value is already equal to a * mathematical integer, then the result is the same as the * argument. &lt;li&gt;If the argument is NaN or an infinity or * positive zero or negative zero, then the result is the same as * the argument. &lt;li&gt;If the argument value is less than zero but * greater than -1.0, then the result is negative zero.&lt;/ul&gt; Note * that the value of {@code Math.ceil(x)} is exactly the * value of {@code -Math.floor(-x)}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
