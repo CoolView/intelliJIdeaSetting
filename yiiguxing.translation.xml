@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only one AsyncAnnotationBeanPostProcessor may exist within the context." />
       <item value="Keep-alive time in seconds. Inactive threads that have been created beyond the core size will timeout after the specified number of seconds elapse. If the executor has an unbounded queue capacity and a size range represented as 0-n, then the core threads will also be configured to timeout when inactive. Otherwise, core threads will not ever timeout." />
       <item value="Queue capacity for the ThreadPoolTaskExecutor. If not specified, the default will be Integer.MAX_VALUE (i.e. unbounded)." />
       <item value="The size of the executor's thread pool as either a single value or a range (e.g. 5-10). If no bounded queue-capacity value is provided, then a max value has no effect unless the range is specified as 0-n. In that case, the core pool will have a size of n, but the 'allowCoreThreadTimeout' flag will be set to true. If a queue-capacity is provided, then the lower bound of a range will map to the core size and the upper bound will map to the max size. If this attribute is not provided, the default core size will be 1, and the default max size will be Integer.MAX_VALUE (i.e. unbounded)." />
@@ -50,12 +51,11 @@
       <item value="&lt;p&gt;Creates a random string whose length is the number of characters * specified.&lt;/p&gt; * * &lt;p&gt;Characters will be chosen from the set of alpha-numeric * characters.&lt;/p&gt;" />
       <item value="round" />
       <item value="Comma expression" />
-      <item value="relative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="164" />
+        <entry key="ENGLISH" value="165" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
