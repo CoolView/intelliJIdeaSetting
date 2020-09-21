@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mail Port" />
       <item value="REDIS RESOURCE" />
       <item value="SYSTEM PROPERTY REDIS PROPERTIES FILENAME" />
       <item value="Only one AsyncAnnotationBeanPostProcessor may exist within the context." />
@@ -50,13 +51,12 @@
       <item value="Enables or disables automatic connection recovery" />
       <item value="the length of random string to create * @param start the position in set of chars to start at" />
       <item value="letters if {@code true}, generated string may include * alphabetic characters * @param numbers if {@code true}, generated string may include * numeric characters" />
-      <item value="&lt;p&gt;Creates a random string whose length is the number of characters * specified.&lt;/p&gt; * * &lt;p&gt;Characters will be chosen from the set of alpha-numeric * characters.&lt;/p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="166" />
         <entry key="ENGLISH" value="166" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
