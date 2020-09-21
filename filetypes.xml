@@ -1,7 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="setting" type="Ini" />
+      <removed_mapping ext="setting" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
