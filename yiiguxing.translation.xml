@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The notion of present is defined relatively to the type on which the constraint is * used." />
       <item value="Ferentschik" />
       <item value="maximum number of fractional digits accepted for this number" />
       <item value="maximum number of integral digits accepted for this number" />
@@ -50,12 +51,11 @@
       <item value="prefetchCount maximum number of messages that the server * will deliver, 0 if unlimited" />
       <item value="global true if the settings should be applied to the * entire channel rather than each consumer" />
       <item value="prefetchSize maximum amount of content (measured in * octets) that the server will deliver, 0 if unlimited" />
-      <item value="Request specific &quot;quality of service&quot; settings. * * These settings impose limits on the amount of data the server * will deliver to consumers before requiring acknowledgements. * Thus they provide a means of consumer-initiated flow control." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
