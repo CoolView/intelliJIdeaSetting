@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="elements are considered valid." />
       <item value="mail Port" />
       <item value="REDIS RESOURCE" />
       <item value="SYSTEM PROPERTY REDIS PROPERTIES FILENAME" />
@@ -50,12 +51,11 @@
       <item value="Set the requested heartbeat timeout. Heartbeat frames will be sent at about 1/2 the timeout interval." />
       <item value="Enables or disables automatic connection recovery" />
       <item value="the length of random string to create * @param start the position in set of chars to start at" />
-      <item value="letters if {@code true}, generated string may include * alphabetic characters * @param numbers if {@code true}, generated string may include * numeric characters" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="ENGLISH" value="167" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
