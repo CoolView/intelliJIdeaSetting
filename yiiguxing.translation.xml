@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot resolve constructor with specified argument types" />
       <item value="The notion of present is defined relatively to the type on which the constraint is * used." />
       <item value="Ferentschik" />
       <item value="maximum number of fractional digits accepted for this number" />
@@ -50,11 +51,10 @@
       <item value="true to acknowledge all messages up to and * including the supplied delivery tag; false to acknowledge just * the supplied delivery tag." />
       <item value="prefetchCount maximum number of messages that the server * will deliver, 0 if unlimited" />
       <item value="global true if the settings should be applied to the * entire channel rather than each consumer" />
-      <item value="prefetchSize maximum amount of content (measured in * octets) that the server will deliver, 0 if unlimited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
+        <entry key="CHINESE" value="171" />
         <entry key="ENGLISH" value="171" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
