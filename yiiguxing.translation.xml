@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cascaded" />
       <item value="validate" />
       <item value="Cannot resolve constructor with specified argument types" />
       <item value="The notion of present is defined relatively to the type on which the constraint is * used." />
@@ -50,12 +51,11 @@
       <item value="applications" />
       <item value="Sets connection recovery interval. Default is 5000." />
       <item value="true to acknowledge all messages up to and * including the supplied delivery tag; false to acknowledge just * the supplied delivery tag." />
-      <item value="prefetchCount maximum number of messages that the server * will deliver, 0 if unlimited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="173" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
