@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="custom" />
+      <item value="RESULT" />
+      <item value="Base exception of all Bean Validation &quot;unexpected&quot; problems." />
       <item value="the maximum time to wait in milliseconds." />
       <item value="report" />
       <item value="Selective" />
@@ -48,14 +51,11 @@
       <item value="Declare" />
       <item value="Vary" />
       <item value="getWriter() has already been called for this response" />
-      <item value="A copy of this string with leading and trailing white * space removed, or this string if it has no leading or * trailing white space." />
-      <item value="safety" />
-      <item value="security" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="175" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
