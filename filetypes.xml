@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="setting" type="Ini" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <removed_mapping ext="setting" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
