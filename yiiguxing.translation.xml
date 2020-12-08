@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// 7. Prefer ObjectReader/ObjectWriter over ObjectMapper // Although the main reason to prefer these objects is thread-safety // (and thus correctness),there may be performance benefits as well // 8.When reading a root-level sequence of POJOs, // readValues() method of ObjectReader can be much more efficient // than doing explicit iteration using ObjectMapper.readValue() method." />
+      <item value="performance" />
       <item value="ROUND DOWN" />
       <item value="approved" />
       <item value="Public" />
@@ -49,13 +51,11 @@
       <item value="Delivery" />
       <item value="Unterminated string literal" />
       <item value="Tried to send an out-of-range integer as a 2-byte value" />
-      <item value="Specifies which {@code SqlSessionTemplate} to use in the case that there is * more than one in the spring context. Usually this is only needed when you * have more than one datasource." />
-      <item value="Let's ensure we have access to name and version information, * even if we do not have immediate use for either. This way we know * that they will be available from beginning" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
