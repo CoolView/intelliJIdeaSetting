@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="when" />
       <item value="through reference chain:" />
       <item value="serialize" />
       <item value="// 7. Prefer ObjectReader/ObjectWriter over ObjectMapper // Although the main reason to prefer these objects is thread-safety // (and thus correctness),there may be performance benefits as well // 8.When reading a root-level sequence of POJOs, // readValues() method of ObjectReader can be much more efficient // than doing explicit iteration using ObjectMapper.readValue() method." />
@@ -50,12 +51,11 @@
       <item value="parse Date" />
       <item value="Exists" />
       <item value="trim" />
-      <item value="Delivery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
