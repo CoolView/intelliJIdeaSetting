@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Zone" />
       <item value="refund Order" />
       <item value="Active" />
       <item value="swagger" />
@@ -50,12 +51,11 @@
       <item value="Specifies the org.springframework.scheduling.TaskScheduler or java.util.ScheduledExecutorService instance to use when invoking scheduled methods. If no reference is provided, a TaskScheduler backed by a single thread scheduled executor will be used." />
       <item value="Queue capacity for the ThreadPoolTaskExecutor. If not specified, the default will be Integer.MAX_VALUE (i.e. unbounded)" />
       <item value="annotation Executor" />
-      <item value="Async" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="206" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
