@@ -14,9 +14,9 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
+    <mask>*.java</mask>
     <mask>*.ftl</mask>
   </component>
 </application>
