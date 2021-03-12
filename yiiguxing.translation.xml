@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The only legal comparisons are between two numbers, two strings, or two dates." />
       <item value="Measure" />
       <item value="Zone" />
       <item value="refund Order" />
@@ -50,12 +51,11 @@
       <item value="The bean name for the generated ThreadPoolTaskExecutor instance. This value will also be used as the thread name prefix which is why it is required even when defining the executor as an inner bean: The executor won't be directly accessible then but will nevertheless use the specified id as the thread name prefix of the threads that it manages. In the case of multiple task:executors, as of Spring 3.1.2 this value may be used to qualify which executor should handle a given @Async method, e.g. @Async(&quot;executorId&quot;). See the Javadoc for the #value attribute of Spring's @Async annotation for details." />
       <item value="Should annotated beans be proxied using Spring's AOP framework, or should they rather be weaved with an AspectJ async execution aspect? AspectJ weaving requires spring-aspects.jar on the classpath, as well as load-time weaving (or compile-time weaving) enabled. Note: The weaving-based aspect requires the @Async annotation to be defined on the concrete class. Annotations in interfaces will not work in that case (they will rather only work with interface-based proxies)!" />
       <item value="Specifies the org.springframework.scheduling.TaskScheduler or java.util.ScheduledExecutorService instance to use when invoking scheduled methods. If no reference is provided, a TaskScheduler backed by a single thread scheduled executor will be used." />
-      <item value="Queue capacity for the ThreadPoolTaskExecutor. If not specified, the default will be Integer.MAX_VALUE (i.e. unbounded)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="208" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
