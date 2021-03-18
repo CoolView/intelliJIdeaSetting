@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="such" />
+      <item value="iterator" />
       <item value="iteration" />
       <item value="sources" />
       <item value="durable" />
@@ -49,8 +51,6 @@
       <item value="REDIS RESOURCE" />
       <item value="SYSTEM PROPERTY REDIS PROPERTIES FILENAME" />
       <item value="Only one AsyncAnnotationBeanPostProcessor may exist within the context." />
-      <item value="Keep-alive time in seconds. Inactive threads that have been created beyond the core size will timeout after the specified number of seconds elapse. If the executor has an unbounded queue capacity and a size range represented as 0-n, then the core threads will also be configured to timeout when inactive. Otherwise, core threads will not ever timeout." />
-      <item value="Queue capacity for the ThreadPoolTaskExecutor. If not specified, the default will be Integer.MAX_VALUE (i.e. unbounded)." />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,8 +61,21 @@
       </map>
     </option>
   </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1616049462370" />
+  </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
-    <option name="translateDocumentation" value="false" />
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20210318000732370" />
+      </app-key>
+    </option>
+    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
+    <option name="translator" value="BAIDU" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="ENGLISH" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
