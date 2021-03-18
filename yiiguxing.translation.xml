@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="iteration" />
+      <item value="sources" />
+      <item value="durable" />
       <item value="if we are declaring an exclusive queue (restricted to this connection)" />
       <item value="The only legal comparisons are between two numbers, two strings, or two dates." />
       <item value="Measure" />
@@ -48,14 +51,11 @@
       <item value="Only one AsyncAnnotationBeanPostProcessor may exist within the context." />
       <item value="Keep-alive time in seconds. Inactive threads that have been created beyond the core size will timeout after the specified number of seconds elapse. If the executor has an unbounded queue capacity and a size range represented as 0-n, then the core threads will also be configured to timeout when inactive. Otherwise, core threads will not ever timeout." />
       <item value="Queue capacity for the ThreadPoolTaskExecutor. If not specified, the default will be Integer.MAX_VALUE (i.e. unbounded)." />
-      <item value="The size of the executor's thread pool as either a single value or a range (e.g. 5-10). If no bounded queue-capacity value is provided, then a max value has no effect unless the range is specified as 0-n. In that case, the core pool will have a size of n, but the 'allowCoreThreadTimeout' flag will be set to true. If a queue-capacity is provided, then the lower bound of a range will map to the core size and the upper bound will map to the max size. If this attribute is not provided, the default core size will be 1, and the default max size will be Integer.MAX_VALUE (i.e. unbounded)." />
-      <item value="The bean name for the generated ThreadPoolTaskExecutor instance. This value will also be used as the thread name prefix which is why it is required even when defining the executor as an inner bean: The executor won't be directly accessible then but will nevertheless use the specified id as the thread name prefix of the threads that it manages. In the case of multiple task:executors, as of Spring 3.1.2 this value may be used to qualify which executor should handle a given @Async method, e.g. @Async(&quot;executorId&quot;). See the Javadoc for the #value attribute of Spring's @Async annotation for details." />
-      <item value="Should annotated beans be proxied using Spring's AOP framework, or should they rather be weaved with an AspectJ async execution aspect? AspectJ weaving requires spring-aspects.jar on the classpath, as well as load-time weaving (or compile-time weaving) enabled. Note: The weaving-based aspect requires the @Async annotation to be defined on the concrete class. Annotations in interfaces will not work in that case (they will rather only work with interface-based proxies)!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="211" />
+        <entry key="ENGLISH" value="212" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
