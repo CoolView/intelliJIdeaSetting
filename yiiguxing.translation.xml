@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="preserve order" />
       <item value="Deque" />
       <item value="Write out size as capacity for behavioural compatibility with clone()" />
       <item value="if this list changed as a result of the call" />
@@ -50,12 +51,11 @@
       <item value="report" />
       <item value="Selective" />
       <item value="cascaded" />
-      <item value="validate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
