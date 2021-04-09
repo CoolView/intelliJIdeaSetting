@@ -13,8 +13,8 @@
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
-    <mask>*.css</mask>
     <mask>*.java</mask>
+    <mask>*.css</mask>
     <mask>*.ftl</mask>
   </component>
 </application>
