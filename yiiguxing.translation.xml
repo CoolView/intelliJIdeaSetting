@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Configuration" />
       <item value="Space" />
       <item value="Active" />
       <item value="Notify the group that this thread is about to be started so that it can be added to the group's list of threads and the group's unstarted count can be decremented." />
@@ -50,19 +51,18 @@
       <item value="PARAM FAIL CODE" />
       <item value="custom" />
       <item value="RESULT" />
-      <item value="Base exception of all Bean Validation &quot;unexpected&quot; problems." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="CHINESE" value="225" />
+        <entry key="ENGLISH" value="226" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618820472389" />
+    <option name="lastTrimTime" value="1619421146967" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
