@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="save the trimmed wav" />
       <item value="fill the spectrum array with the amps of the data in real and imag used so that this class can handle creating the average array and also do spectrum shaping if necessary" />
       <item value="to sotore the setTimeout ID and clear the interval" />
       <item value="spectrum" />
@@ -50,7 +51,6 @@
       <item value="Public" />
       <item value="Internal" />
       <item value="constructor" />
-      <item value="Gross weight" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,7 +62,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620279343037" />
+    <option name="lastTrimTime" value="1620785271276" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
