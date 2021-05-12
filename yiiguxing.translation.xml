@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="0 for no overlapping" />
+      <item value="for each frame in signals, do fft on it" />
       <item value="save the trimmed wav" />
       <item value="fill the spectrum array with the amps of the data in real and imag used so that this class can handle creating the average array and also do spectrum shaping if necessary" />
       <item value="to sotore the setTimeout ID and clear the interval" />
@@ -49,8 +51,6 @@
       <item value="ROUND DOWN" />
       <item value="approved" />
       <item value="Public" />
-      <item value="Internal" />
-      <item value="constructor" />
     </histories>
     <option name="languageScores">
       <map>
