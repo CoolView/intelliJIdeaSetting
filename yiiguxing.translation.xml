@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="absolute spectrogram" />
+      <item value="relative spectrogram" />
+      <item value="little" />
+      <item value="endian" />
+      <item value="little endian" />
       <item value="0 for no overlapping" />
       <item value="for each frame in signals, do fft on it" />
       <item value="save the trimmed wav" />
@@ -46,11 +51,6 @@
       <item value="when" />
       <item value="through reference chain:" />
       <item value="serialize" />
-      <item value="// 7. Prefer ObjectReader/ObjectWriter over ObjectMapper // Although the main reason to prefer these objects is thread-safety // (and thus correctness),there may be performance benefits as well // 8.When reading a root-level sequence of POJOs, // readValues() method of ObjectReader can be much more efficient // than doing explicit iteration using ObjectMapper.readValue() method." />
-      <item value="performance" />
-      <item value="ROUND DOWN" />
-      <item value="approved" />
-      <item value="Public" />
     </histories>
     <option name="languageScores">
       <map>
