@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="since" />
       <item value="provided" />
       <item value="relative spectrogram" />
       <item value="absolute spectrogram" />
@@ -50,7 +51,6 @@
       <item value="subtract" />
       <item value="backroll" />
       <item value="when" />
-      <item value="through reference chain:" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,7 +62,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621324341775" />
+    <option name="lastTrimTime" value="1621837360800" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
