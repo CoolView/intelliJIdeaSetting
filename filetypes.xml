@@ -6,7 +6,9 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="log" type="Log" />
       <mapping ext="fingerprint" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="Catdea" />
       <removed_mapping ext="setting" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
