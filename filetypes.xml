@@ -7,7 +7,9 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="fingerprint" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="log" approved="true" type="Catdea" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="setting" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
