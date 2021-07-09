@@ -12,8 +12,8 @@
     <mask>*.mxml</mask>
     <mask>*.css</mask>
     <mask>*.xml</mask>
-    <mask>*.ftl</mask>
     <mask>*.*</mask>
+    <mask>*.ftl</mask>
     <mask>*.java</mask>
   </component>
 </application>
