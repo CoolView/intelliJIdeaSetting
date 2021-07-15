@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
@@ -10,5 +11,11 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
 </application>
