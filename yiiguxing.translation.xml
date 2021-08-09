@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclude" />
       <item value="true if we are declaring a durable queue (the queue will survive a server restart)" />
       <item value="Fault" />
       <item value="container" />
@@ -50,7 +51,6 @@
       <item value="Zone" />
       <item value="refund Order" />
       <item value="swagger" />
-      <item value="column" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,7 +62,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627645292769" />
+    <option name="lastTrimTime" value="1628495261759" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
