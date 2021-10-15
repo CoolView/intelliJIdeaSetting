@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Security" />
       <item value="time in milliseconds between successive task executions." />
       <item value="delay in milliseconds before task is to be executed." />
       <item value="exclude" />
@@ -50,7 +51,6 @@
       <item value="if we are declaring an exclusive queue (restricted to this connection)" />
       <item value="The only legal comparisons are between two numbers, two strings, or two dates." />
       <item value="Measure" />
-      <item value="Zone" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,13 +62,18 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630570105134" />
+    <option name="lastTrimTime" value="1634260953502" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20210318000732370" />
       </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
     </option>
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
     <option name="youdaoTranslateSettings">
