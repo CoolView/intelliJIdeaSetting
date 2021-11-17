@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/ljh-LOVE-lhr/ljh-LOVE-lhr.github.io.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/CoolView/lagouJava.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\jinhui\Java" />
