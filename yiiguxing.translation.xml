@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Any explicit PropertyEditor Class that has been registered for this property. Normally this will return &quot;null&quot;, indicating that no special editor has been registered, so the PropertyEditorManager should be used to locate a suitable PropertyEditor." />
       <item value="Bound" />
       <item value="Resources" />
       <item value="Deal" />
@@ -50,7 +51,6 @@
       <item value="iterator" />
       <item value="iteration" />
       <item value="sources" />
-      <item value="durable" />
     </histories>
     <option name="languageScores">
       <map>
