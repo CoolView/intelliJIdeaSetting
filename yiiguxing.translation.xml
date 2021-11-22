@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hide Ignored Files is no longer available. This feature is now covered by the 'Foldable ProjectView' plugin." />
       <item value="It has been a long time since the last reset! Would you like to reset it again?" />
       <item value="Kite requires the Kite Copilot to function. However, it cannot be downloaded for the next few weeks. This plugin will notify you when it's available again." />
       <item value="Resources" />
@@ -50,12 +51,11 @@
       <item value="such" />
       <item value="iterator" />
       <item value="iteration" />
-      <item value="sources" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="232" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
