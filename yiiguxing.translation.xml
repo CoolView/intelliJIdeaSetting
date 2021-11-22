@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Kite requires the Kite Copilot to function. However, it cannot be downloaded for the next few weeks. This plugin will notify you when it's available again." />
       <item value="Resources" />
       <item value="Deal" />
       <item value="Security" />
@@ -50,12 +51,11 @@
       <item value="iteration" />
       <item value="sources" />
       <item value="durable" />
-      <item value="if we are declaring an exclusive queue (restricted to this connection)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
@@ -69,11 +69,6 @@
       <app-key>
         <option name="appId" value="20210318000732370" />
       </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
     </option>
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
     <option name="youdaoTranslateSettings">
