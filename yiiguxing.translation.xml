@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Negative" />
       <item value="deduction" />
       <item value="health Status" />
       <item value="communication" />
@@ -50,19 +51,18 @@
       <item value="Private remove method that skips bounds checking and does not return the value removed." />
       <item value="Make a new array of a's runtime type, but my contents:" />
       <item value="any size if not default element table" />
-      <item value="table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="236" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637810665759" />
+    <option name="lastTrimTime" value="1639386420734" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
