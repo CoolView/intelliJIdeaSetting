@@ -1,21 +1,19 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="所有位置" />
     <option name="defaultScopeName" value="所有位置" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="所有位置" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.ftl" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.ftl</mask>
     <mask>*.*</mask>
+    <mask>*.xml</mask>
+    <mask>*.ftl</mask>
   </component>
 </application>
