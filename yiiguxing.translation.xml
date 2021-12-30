@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the initial capacity of the list" />
       <item value="Preason" />
       <item value="temperature" />
       <item value="Telemetry Algo" />
@@ -50,12 +51,11 @@
       <item value="Write out size as capacity for behavioural compatibility with clone()" />
       <item value="if this list changed as a result of the call" />
       <item value="Preserve behavioral compatibility with AbstractCollection, even if c.contains() throws." />
-      <item value="complement" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639981880409" />
+    <option name="lastTrimTime" value="1640833138011" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
