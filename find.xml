@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="所有位置" />
     <option name="defaultScopeName" value="所有位置" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="所有位置" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.css</mask>
@@ -11,9 +13,9 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.*</mask>
     <mask>*.ftl</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
