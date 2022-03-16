@@ -8,7 +8,7 @@
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.47" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.3.3" />
     </driver>
     <driver id="greenplum">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
