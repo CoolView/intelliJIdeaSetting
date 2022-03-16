@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="visitor" />
       <item value="standalone" />
       <item value="legend Data" />
       <item value="left" />
@@ -50,12 +51,11 @@
       <item value="This method is not invoked for the main method thread or &quot;system&quot; group threads createdset up by the VM. Any new functionality added to this method in the future may have to also be added to the VM. A zero status value corresponds to state &quot;NEW&quot;." />
       <item value="more than once" />
       <item value="preserve order" />
-      <item value="Deque" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
-        <entry key="ENGLISH" value="241" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="242" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646646849135" />
+    <option name="lastTrimTime" value="1647422219594" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
