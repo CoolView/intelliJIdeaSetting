@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="authority" />
       <item value="visitor" />
       <item value="standalone" />
       <item value="legend Data" />
@@ -50,12 +51,11 @@
       <item value="Notify the group that this thread is about to be started so that it can be added to the group's list of threads and the group's unstarted count can be decremented." />
       <item value="This method is not invoked for the main method thread or &quot;system&quot; group threads createdset up by the VM. Any new functionality added to this method in the future may have to also be added to the VM. A zero status value corresponds to state &quot;NEW&quot;." />
       <item value="more than once" />
-      <item value="preserve order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="CHINESE" value="242" />
+        <entry key="ENGLISH" value="243" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
