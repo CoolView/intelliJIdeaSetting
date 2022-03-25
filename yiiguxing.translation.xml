@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Robot Controller Holder" />
+      <item value="Robot Controller Model" />
       <item value="execution" />
       <item value="volume" />
       <item value="microphone" />
@@ -49,13 +51,11 @@
       <item value="for each frame in signals, do fft on it" />
       <item value="save the trimmed wav" />
       <item value="fill the spectrum array with the amps of the data in real and imag used so that this class can handle creating the average array and also do spectrum shaping if necessary" />
-      <item value="to sotore the setTimeout ID and clear the interval" />
-      <item value="spectrum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
