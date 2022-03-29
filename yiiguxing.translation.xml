@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="present" />
       <item value="mask Closable" />
       <item value="Dirty" />
       <item value="square" />
@@ -50,12 +51,11 @@
       <item value="absolute spectrogram" />
       <item value="little" />
       <item value="endian" />
-      <item value="little endian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="258" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
