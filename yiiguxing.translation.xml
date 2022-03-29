@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="square" />
       <item value="Control" />
       <item value="Robot Controller Holder" />
       <item value="Robot Controller Model" />
@@ -50,12 +51,11 @@
       <item value="little endian" />
       <item value="0 for no overlapping" />
       <item value="for each frame in signals, do fft on it" />
-      <item value="save the trimmed wav" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
