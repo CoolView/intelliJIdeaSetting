@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="draw" />
+      <item value="dispatch Event" />
       <item value="heartbeat Outgoing" />
       <item value="heartbeat Incoming" />
       <item value="CONNECTING" />
@@ -49,13 +51,11 @@
       <item value="exclude" />
       <item value="true if we are declaring a durable queue (the queue will survive a server restart)" />
       <item value="Fault" />
-      <item value="container" />
-      <item value="Classical Java approach" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
