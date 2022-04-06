@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Telemetry Algo Charts Dto" />
+      <item value="Three Phase" />
       <item value="draw" />
       <item value="dispatch Event" />
       <item value="heartbeat Outgoing" />
@@ -49,13 +51,11 @@
       <item value="time in milliseconds between successive task executions." />
       <item value="delay in milliseconds before task is to be executed." />
       <item value="exclude" />
-      <item value="true if we are declaring a durable queue (the queue will survive a server restart)" />
-      <item value="Fault" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="273" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648449527506" />
+    <option name="lastTrimTime" value="1649210444569" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
