@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set the replace: true so the navigation will not leave a history record" />
       <item value="immediate" />
       <item value="if not set autoExpandParent to false, if children expanded, parent can not collapse. or, you can remove all expanded children keys." />
       <item value="small" />
@@ -50,12 +51,11 @@
       <item value="It has been a long time since the last reset! Would you like to reset it again?" />
       <item value="Kite requires the Kite Copilot to function. However, it cannot be downloaded for the next few weeks. This plugin will notify you when it's available again." />
       <item value="Resources" />
-      <item value="Deal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
