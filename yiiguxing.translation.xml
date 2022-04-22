@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="immediate" />
       <item value="if not set autoExpandParent to false, if children expanded, parent can not collapse. or, you can remove all expanded children keys." />
       <item value="small" />
       <item value="col" />
@@ -50,12 +51,11 @@
       <item value="Kite requires the Kite Copilot to function. However, it cannot be downloaded for the next few weeks. This plugin will notify you when it's available again." />
       <item value="Resources" />
       <item value="Deal" />
-      <item value="Security" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649924517443" />
+    <option name="lastTrimTime" value="1650529408367" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
