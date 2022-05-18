@@ -1,6 +1,43 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Laste" />
+      <item value="step" />
+      <item value="Control" />
+      <item value="set the replace: true so the navigation will not leave a history record" />
+      <item value="immediate" />
+      <item value="if not set autoExpandParent to false, if children expanded, parent can not collapse. or, you can remove all expanded children keys." />
+      <item value="small" />
+      <item value="col" />
+      <item value="Telemetry Algo Charts Dto" />
+      <item value="Three Phase" />
+      <item value="draw" />
+      <item value="dispatch Event" />
+      <item value="heartbeat Outgoing" />
+      <item value="heartbeat Incoming" />
+      <item value="CONNECTING" />
+      <item value="ACTIVE" />
+      <item value="INACTIVE" />
+      <item value="DEACTIVATING" />
+      <item value="Model" />
+      <item value="async" />
+      <item value="mask Closable" />
+      <item value="present" />
+      <item value="Dirty" />
+      <item value="square" />
+      <item value="Robot Controller Holder" />
+      <item value="Robot Controller Model" />
+      <item value="execution" />
+      <item value="volume" />
+      <item value="microphone" />
+      <item value="These parameters would typically get proper values before connect is called" />
+      <item value="Will be invoked in case of error encountered at Broker Bad loginpasscode typically will cause an error Complaint brokers will set `message` header with a brief message. Body may contain details. Compliant brokers will terminate the connection after any error" />
+      <item value="Do something, all subscribes must be done is this callback This is needed because this will be executed after a (re)connect" />
+      <item value="deny" />
+      <item value="but expression is of type boolean" />
+      <item value="authority" />
+      <item value="visitor" />
+      <item value="standalone" />
       <item value="legend Data" />
       <item value="left" />
       <item value="the initial capacity of the list" />
@@ -14,56 +51,20 @@
       <item value="Power Monitoring" />
       <item value="Hide Ignored Files is no longer available. This feature is now covered by the 'Foldable ProjectView' plugin." />
       <item value="It has been a long time since the last reset! Would you like to reset it again?" />
-      <item value="Kite requires the Kite Copilot to function. However, it cannot be downloaded for the next few weeks. This plugin will notify you when it's available again." />
-      <item value="Resources" />
-      <item value="Deal" />
-      <item value="Security" />
-      <item value="time in milliseconds between successive task executions." />
-      <item value="delay in milliseconds before task is to be executed." />
-      <item value="exclude" />
-      <item value="true if we are declaring a durable queue (the queue will survive a server restart)" />
-      <item value="Fault" />
-      <item value="container" />
-      <item value="Classical Java approach" />
-      <item value="divide" />
-      <item value="subtract" />
-      <item value="since" />
-      <item value="provided" />
-      <item value="relative spectrogram" />
-      <item value="absolute spectrogram" />
-      <item value="little" />
-      <item value="endian" />
-      <item value="little endian" />
-      <item value="0 for no overlapping" />
-      <item value="for each frame in signals, do fft on it" />
-      <item value="save the trimmed wav" />
-      <item value="fill the spectrum array with the amps of the data in real and imag used so that this class can handle creating the average array and also do spectrum shaping if necessary" />
-      <item value="to sotore the setTimeout ID and clear the interval" />
-      <item value="spectrum" />
-      <item value="LENCHUNKDESCRIPTOR" />
-      <item value="partition" />
-      <item value="Configuration" />
-      <item value="Space" />
-      <item value="Active" />
-      <item value="Notify the group that this thread is about to be started so that it can be added to the group's list of threads and the group's unstarted count can be decremented." />
-      <item value="This method is not invoked for the main method thread or &quot;system&quot; group threads createdset up by the VM. Any new functionality added to this method in the future may have to also be added to the VM. A zero status value corresponds to state &quot;NEW&quot;." />
-      <item value="more than once" />
-      <item value="preserve order" />
-      <item value="Deque" />
-      <item value="Write out size as capacity for behavioural compatibility with clone()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="239" />
-        <entry key="ENGLISH" value="240" />
+        <entry key="CHINESE" value="280" />
+        <entry key="ENGLISH" value="280" />
         <entry key="FRENCH" value="2" />
+        <entry key="ESPERANTO" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642488809454" />
+    <option name="lastTrimTime" value="1651127311578" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
