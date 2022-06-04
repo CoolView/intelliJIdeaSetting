@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dummy" />
       <item value="Interceptor" />
       <item value="Laste" />
       <item value="step" />
@@ -50,12 +51,11 @@
       <item value="health Status" />
       <item value="communication" />
       <item value="Power Monitoring" />
-      <item value="Hide Ignored Files is no longer available. This feature is now covered by the 'Foldable ProjectView' plugin." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="280" />
-        <entry key="ENGLISH" value="281" />
+        <entry key="CHINESE" value="281" />
+        <entry key="ENGLISH" value="282" />
         <entry key="FRENCH" value="2" />
         <entry key="ESPERANTO" value="1" />
         <entry key="SPANISH" value="2" />
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653381455861" />
+    <option name="lastTrimTime" value="1654332136823" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
