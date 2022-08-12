@@ -4,8 +4,10 @@
     <option name="customScope" value="所有位置" />
     <option name="defaultScopeName" value="所有位置" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="所有位置" />
     <option name="FILE_MASK" value="*.vue" />
     <mask>*.as</mask>
@@ -13,13 +15,13 @@
     <mask>*.ftl</mask>
     <mask>*.yaml</mask>
     <mask>*.js</mask>
+    <mask>*.*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.*</mask>
     <mask>*.vue</mask>
   </component>
 </application>
