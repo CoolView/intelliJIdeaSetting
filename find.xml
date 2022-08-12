@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="所有位置" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.ftl</mask>
@@ -21,7 +21,7 @@
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.vue</mask>
+    <mask>*.java</mask>
   </component>
 </application>
