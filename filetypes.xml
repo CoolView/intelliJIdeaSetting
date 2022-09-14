@@ -10,6 +10,7 @@
       <removed_mapping ext="cmd" approved="true" type="Batch" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="log" approved="true" type="Catdea" />
+      <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="setting" approved="true" type="PLAIN_TEXT" />
       <mapping ext="setting" type="Ini" />
