@@ -14,9 +14,9 @@
     <mask>*.vue</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
+    <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.*</mask>
   </component>
