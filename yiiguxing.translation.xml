@@ -1,0 +1,84 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Scram" />
+      <item value="Reject" />
+      <item value="Non FTI" />
+      <item value="Processed" />
+      <item value="Record" />
+      <item value="Movement" />
+      <item value="management" />
+      <item value="Logic" />
+      <item value="Dummy" />
+      <item value="Interceptor" />
+      <item value="Laste" />
+      <item value="step" />
+      <item value="Control" />
+      <item value="set the replace: true so the navigation will not leave a history record" />
+      <item value="immediate" />
+      <item value="if not set autoExpandParent to false, if children expanded, parent can not collapse. or, you can remove all expanded children keys." />
+      <item value="small" />
+      <item value="col" />
+      <item value="Telemetry Algo Charts Dto" />
+      <item value="Three Phase" />
+      <item value="draw" />
+      <item value="dispatch Event" />
+      <item value="heartbeat Outgoing" />
+      <item value="heartbeat Incoming" />
+      <item value="CONNECTING" />
+      <item value="ACTIVE" />
+      <item value="INACTIVE" />
+      <item value="DEACTIVATING" />
+      <item value="Model" />
+      <item value="async" />
+      <item value="mask Closable" />
+      <item value="present" />
+      <item value="Dirty" />
+      <item value="square" />
+      <item value="Robot Controller Holder" />
+      <item value="Robot Controller Model" />
+      <item value="execution" />
+      <item value="volume" />
+      <item value="microphone" />
+      <item value="These parameters would typically get proper values before connect is called" />
+      <item value="Will be invoked in case of error encountered at Broker Bad loginpasscode typically will cause an error Complaint brokers will set `message` header with a brief message. Body may contain details. Compliant brokers will terminate the connection after any error" />
+      <item value="Do something, all subscribes must be done is this callback This is needed because this will be executed after a (re)connect" />
+      <item value="deny" />
+      <item value="but expression is of type boolean" />
+      <item value="authority" />
+      <item value="visitor" />
+      <item value="standalone" />
+      <item value="legend Data" />
+      <item value="left" />
+      <item value="the initial capacity of the list" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="289" />
+        <entry key="FRENCH" value="2" />
+        <entry key="ESPERANTO" value="1" />
+        <entry key="SPANISH" value="2" />
+        <entry key="ITALIAN" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1663317790655" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20210318000732370" />
+      </app-key>
+    </option>
+    <option name="phoneticFontFamily" value="Microsoft YaHei UI" />
+    <option name="primaryFontFamily" value="Microsoft YaHei UI" />
+    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="ENGLISH" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="HotSwap" displayType="NONE" />
+    <notification groupId="IDE and Plugin Updates" shouldLog="false" />
+    <notification groupId="Platform and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
+  </component>
+</application>
