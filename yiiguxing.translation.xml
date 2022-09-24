@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="search Query" />
       <item value="Scram" />
       <item value="Reject" />
       <item value="Non FTI" />
@@ -50,12 +51,11 @@
       <item value="standalone" />
       <item value="legend Data" />
       <item value="left" />
-      <item value="the initial capacity of the list" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="290" />
         <entry key="FRENCH" value="2" />
         <entry key="ESPERANTO" value="1" />
         <entry key="SPANISH" value="2" />
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663317790655" />
+    <option name="lastTrimTime" value="1663918837381" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
