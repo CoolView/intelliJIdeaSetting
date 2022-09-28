@@ -1,10 +1,10 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="MySQL - jeecg-boot@localhost" uuid="f47055a9-451f-41c3-bda9-28e855319100">
-      <driver-ref>mysql.8</driver-ref>
+    <data-source source="LOCAL" name="postgres@192.168.81.209" uuid="c395b67b-dc87-488e-99ac-7d9e6d498f96">
+      <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/jeecg-boot</jdbc-url>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.81.209:5432/postgres</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
