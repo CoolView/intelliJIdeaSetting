@@ -18,6 +18,10 @@
           <option name="url" value="http://192.168.81.209:3000" />
           <option name="userName" value="zhangb" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.97.41:3000" />
+          <option name="userName" value="zhangb" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\jinhui\Java" />
