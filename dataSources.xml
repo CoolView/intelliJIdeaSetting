@@ -14,5 +14,12 @@
       <jdbc-url>jdbc:postgresql://192.168.97.208:5432/postgres</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="mood@192.168.81.210" uuid="8421b3fb-7244-4c69-83c1-51b21385d995">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.81.210:5432/mood</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
