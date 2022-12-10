@@ -2,7 +2,7 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="checkUsage" value="2" />
+        <option name="checkUsage" value="6" />
         <option name="database" value="PostgreSQL" />
         <option name="theUsageCount" value="1666144456698" />
         <option name="valid" value="true" />
