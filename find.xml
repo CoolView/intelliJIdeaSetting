@@ -3,7 +3,7 @@
     <option name="customScope" value="所有位置" />
     <option name="defaultScopeName" value="所有位置" />
     <option name="SEARCH_SCOPE" value="所有位置" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.ftl</mask>
@@ -12,10 +12,10 @@
     <mask>*.yaml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.*</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
