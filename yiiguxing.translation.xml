@@ -90,4 +90,18 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1672990178765" />
   </component>
+  <component name="Translation.Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI5t9dBVfV32U8nDRmYRPF" />
+      </app-key>
+    </option>
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="ALI" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Jeecg Boot Exception" />
+    </histories>
+  </component>
 </application>
