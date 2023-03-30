@@ -101,8 +101,8 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="set Margins" />
       <item value="Paragraph" />
+      <item value="set Margins" />
       <item value="Embedding fonts if possible." />
       <item value="Force embedding fonts. It expected to get an exception if the font cannot be embedded." />
       <item value="Jeecg Boot Exception" />
