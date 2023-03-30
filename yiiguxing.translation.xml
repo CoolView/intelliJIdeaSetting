@@ -101,6 +101,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="set Width Percentage" />
       <item value="Paragraph" />
       <item value="set Margins" />
       <item value="Embedding fonts if possible." />
