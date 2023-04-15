@@ -5,6 +5,7 @@
         <option name="checkUsage" value="7" />
         <option name="database" value="PostgreSQL" />
         <option name="theUsageCount" value="1666144456698" />
+        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>
