@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/gongsir0630/wx-java-miniapp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://114.116.219.144:3000" />
+          <option name="userName" value="zhangb" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\jinhui\Java" />
