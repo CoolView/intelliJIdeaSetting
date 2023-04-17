@@ -30,9 +30,17 @@
           <option name="url" value="http://114.116.219.144:3000" />
           <option name="userName" value="zhangb" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://114.116.219.144:3000/socialFace/AuthenFaceElder.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://114.116.219.144:3000/socialFace/AuthenFaceElderAPP.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\jinhui\Java" />
+    <option name="cloneParentDir" value="C:\jinhui\Java\socialFace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
