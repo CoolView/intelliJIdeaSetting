@@ -101,6 +101,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Check" />
       <item value="Leaf" />
       <item value="level" />
       <item value="spacing" />
