@@ -88,12 +88,12 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1680848998520" />
+    <option name="lastTrimTime" value="1681801929710" />
   </component>
   <component name="Translation.Settings">
     <option name="aliTranslateSettings">
       <app-key>
-        <option name="appId" value="LTAI5t9dBVfV32U8nDRmYRPF" />
+        <option name="appId" value="LTAI5t68dHHvpeuToGprUySt" />
       </app-key>
     </option>
     <option name="primaryLanguage" value="CHINESE" />
@@ -101,6 +101,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="level" />
       <item value="spacing" />
       <item value="set Width Percentage" />
       <item value="Paragraph" />
