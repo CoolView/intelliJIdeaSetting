@@ -101,6 +101,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Leaf" />
       <item value="level" />
       <item value="spacing" />
       <item value="set Width Percentage" />
