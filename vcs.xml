@@ -38,9 +38,13 @@
           <option name="url" value="http://114.116.219.144:3000/socialFace/AuthenFaceElderAPP.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://114.116.219.144:3000/publicProjects/aj-report.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\jinhui\Java\socialFace" />
+    <option name="cloneParentDir" value="D:\Java\jinhui" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
