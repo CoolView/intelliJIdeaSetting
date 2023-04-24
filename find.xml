@@ -3,19 +3,19 @@
     <option name="customScope" value="项目文件" />
     <option name="defaultScopeName" value="项目文件" />
     <option name="SEARCH_SCOPE" value="项目文件" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.ftl</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.yaml</mask>
+    <mask>*.*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.*</mask>
   </component>
 </application>
