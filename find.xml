@@ -9,7 +9,6 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.ftl</mask>
-    <mask>*.js</mask>
     <mask>*.yaml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -18,6 +17,7 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.vue</mask>
+    <mask>*.js</mask>
     <mask>*.*</mask>
   </component>
 </application>
