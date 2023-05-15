@@ -1,0 +1,7 @@
+<templateSet group="Java">
+  <template name="dc" value="/**&#10; * &#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

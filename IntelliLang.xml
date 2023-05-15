@@ -1,0 +1,9 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>MyWebSocket.onMessage (com.bin.websocket.bin)</display-name>
+      <single-file value="true" />
+      <place><![CDATA[psiMethod().withName("onMessage").withParameters("java.lang.String", "javax.websocket.Session").definedInClass("com.bin.websocket.bin.MyWebSocket")]]></place>
+    </injection>
+  </component>
+</application>
