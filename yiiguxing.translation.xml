@@ -97,10 +97,10 @@
       </app-key>
     </option>
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="ALI" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Get the value of the &quot;exp&quot; claim, or null if it's not available." />
       <item value="require" />
       <item value="Check" />
       <item value="Leaf" />
