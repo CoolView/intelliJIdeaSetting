@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="com.haulmont.jpab" />
+        <option value="aws.toolkit" />
       </list>
     </option>
   </component>
