@@ -2,7 +2,7 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="checkUsage" value="8" />
+        <option name="checkUsage" value="10" />
         <option name="database" value="PostgreSQL" />
         <option name="maxMeetContext" value="48" />
         <option name="theUsageCount" value="1666144456698" />
