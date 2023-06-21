@@ -100,6 +100,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="expand" />
       <item value="seen" />
       <item value="Get the value of the &quot;exp&quot; claim, or null if it's not available." />
       <item value="require" />
