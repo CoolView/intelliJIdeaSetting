@@ -101,6 +101,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Returns the least element in this set greater than or equal to the given element, or null if there is no such element." />
+      <item value="A SortedSet extended with navigation methods reporting closest matches for given search targets. Methods lower, floor, ceiling, and higher return elements respectively less than, less than or equal, greater than or equal, and greater than a given element, returning null if there is no such element. A NavigableSet may be accessed and traversed in either ascending or descending order. The descendingSet method returns a view of the set with the senses of all relational and directional methods inverted. The performance of ascending operations and views is likely to be faster than that of descending ones. This interface additionally defines methods pollFirst and pollLast that return and remove the lowest and highest element, if one exists, else returning null. Methods subSet(E, boolean, E, boolean), headSet(E, boolean), and tailSet(E, boolean) differ from the like-named SortedSet methods in accepting additional arguments describing whether lower and upper bounds are inclusive versus exclusive. Subsets of any NavigableSet must implement the NavigableSet interface." />
+      <item value="Returns the least element in this set strictly greater than the given element, or null if there is no such element." />
       <item value="Returns an unmodifiable set containing zero elements. See Unmodifiable Sets for details." />
       <item value="expand" />
       <item value="seen" />
@@ -119,8 +122,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
