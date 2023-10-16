@@ -58,6 +58,10 @@
           <option name="url" value="https://gitclone.com/github.com/bichengfei/dynamic-ds.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dynamic-datasource/dynamic-datasource-samples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\jinhui\Java\smartParkPlatform" />
