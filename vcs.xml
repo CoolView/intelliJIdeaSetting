@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/tower1229/Vue-Giant-Tree.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/renrenio/renren-fast.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\jinhui\Java\smartParkPlatform" />
