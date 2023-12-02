@@ -101,6 +101,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="tow" />
+      <item value="Mean" />
       <item value="align" />
       <item value="pure" />
       <item value="unspecified" />
@@ -125,8 +127,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
