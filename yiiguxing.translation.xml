@@ -88,7 +88,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1697425200279" />
+    <option name="lastTrimTime" value="1701502323679" />
   </component>
   <component name="Translation.Settings">
     <option name="aliTranslateSettings">
@@ -101,6 +101,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="align" />
       <item value="pure" />
       <item value="unspecified" />
       <item value="Returns the least element in this set greater than or equal to the given element, or null if there is no such element." />
@@ -125,7 +126,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
