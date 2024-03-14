@@ -88,7 +88,11 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1702972783152" />
+    <option name="lastTrimTime" value="1710394036866" />
+  </component>
+  <component name="Translation.GoogleSettings">
+    <option name="CUSTOM_SERVER" value="true" />
+    <option name="SERVER_URL" value="https://translate.homegu.com/" />
   </component>
   <component name="Translation.Settings">
     <option name="aliTranslateSettings">
@@ -97,10 +101,11 @@
       </app-key>
     </option>
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="MICROSOFT" />
+    <option name="translator" value="GOOGLE" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="get Tables" />
       <item value="Paragraph" />
       <item value="Handler" />
       <item value="light" />
@@ -129,8 +134,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
