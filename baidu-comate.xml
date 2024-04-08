@@ -1,5 +1,7 @@
 <application>
   <component name="baidu-comate">
+    <option name="showInlineShortcutTip" value="false" />
+    <option name="showCoexistenceShortcutTip" value="false" />
     <option name="uuid" value="ad50ef3c081241cc8700e7de934ba1dd" />
   </component>
 </application>
